@@ -66,12 +66,6 @@ Hour (ET)	Forecast	Emotional Resonance	Avian Advice	Magnetic Status	Confidence
 
 
 
-
----
-
-If you'd like a night owl scan, next-day hypertime extrapolation, or upload sky photo for reality-tuned simulation, just say the word 🪶
-
-
 ```
 
 ## 🔧 Requirements
