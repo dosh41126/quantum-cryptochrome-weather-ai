@@ -1,6 +1,7 @@
 # 🧬 Human Cryptochrome Weather AI v4.0
 
 This AI system simulates **avian-style weather intuition** using:
+![Cryptochrome Weather AI – Cyberpunk Art](https://raw.githubusercontent.com/dosh41126/quantum-cryptochrome-weather-ai/refs/heads/main/weather.png)
 
 - 🌀 PennyLane quantum circuits tuned to **25-color weather vectors**
 - 🧠 GPT-4 LLM prompt logic for avian-style advisory generation
